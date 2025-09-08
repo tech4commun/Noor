@@ -1,0 +1,7 @@
+speechrecognition
+pyttsx3
+scikit-learn
+pandas
+numpy
+joblib
+requests
