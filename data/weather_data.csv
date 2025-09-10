@@ -1,0 +1,7 @@
+location,condition,temperature,humidity,rainfall,forecast
+patna,Sunny,32,65,0,Partly cloudy tomorrow
+delhi,Partly cloudy,35,60,0,Light rain expected
+pune,Cloudy,28,75,10,Heavy rain warning
+bangalore,Rainy,26,85,25,Continuing rain
+chittor,Hot,38,45,0,Clear skies
+krishna,Humid,34,80,5,Possible showers
