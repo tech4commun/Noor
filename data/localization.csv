@@ -1,0 +1,14 @@
+key,english,hindi
+greeting,Hello! How can I help you today?,नमस्ते! मैं आपकी कैसे मदद कर सकता हूं?
+price_not_found,"Sorry, I don't have price information for {crop} in {location}","क्षमा करें, मेरे पास {location} में {crop} की कीमत की जानकारी नहीं है"
+weather_not_found,Weather information not available for {location},{location} के लिए मौसम की जानकारी उपलब्ध नहीं है
+advice_not_found,No specific advice available for {crop},{crop} के लिए कोई विशिष्ट सलाह उपलब्ध नहीं है
+missing_crop,Please specify a crop,कृपया एक फसल निर्दिष्ट करें
+missing_location,Please specify a location,कृपया एक स्थान निर्दिष्ट करें
+goodbye,Goodbye! Have a great day!,अलविदा! आपका दिन शुभ हो!
+error,"Sorry, I encountered an error. Please try again.","क्षमा करें, एक त्रुटि हुई। कृपया पुनः प्रयास करें।"
+listening,Listening...,सुन रहा हूँ...
+not_understood,"Sorry, I didn't understand that.","क्षमा करें, मैं समझा नहीं।"
+service_unavailable,"Sorry, speech service is unavailable.","क्षमा करें, भाषण सेवा उपलब्ध नहीं है।"
+no_speech,No speech detected.,कोई भाषण नहीं मिला।
+help_prompt,"I can help with crop prices, weather information, and agricultural advice. What do you need?","मैं फसल की कीमतों, मौसम की जानकारी और कृषि सलाह में मदद कर सकता हूं। आपको क्या चाहिए?"
